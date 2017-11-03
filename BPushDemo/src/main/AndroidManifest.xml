@@ -40,7 +40,7 @@
         </activity>
         <meta-data
             android:name="api_key"
-            android:value="GwDx95VsGFthzGTWGG34xXfaQeusBpLj" />
+            android:value="xxxx" />
         <!-- push service start -->
         <!-- 用于接收系统消息以保证PushService正常运行 -->
         <receiver
