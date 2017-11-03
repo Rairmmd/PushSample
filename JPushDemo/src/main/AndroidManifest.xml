@@ -3,7 +3,7 @@
     package="com.rair.push">
 
     <permission
-        android:name="com.rairmmd.push.permission.JPUSH_MESSAGE"
+        android:name="com.rair.push.permission.JPUSH_MESSAGE"
         android:protectionLevel="signature" />
 
     <uses-permission android:name="com.rair.push.permission.JPUSH_MESSAGE" />
