@@ -17,6 +17,6 @@ public class App extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
-        PushManager.startWork(this, PushConstants.LOGIN_TYPE_API_KEY, "GwDx95VsGFthzGTWGG34xXfaQeusBpLj");
+        PushManager.startWork(this, PushConstants.LOGIN_TYPE_API_KEY, "xxxx");
     }
 }
