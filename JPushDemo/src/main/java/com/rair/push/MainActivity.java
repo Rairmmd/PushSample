@@ -1,4 +1,4 @@
-package com.rairmmd.push;
+package com.rair.push;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

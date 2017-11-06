@@ -1,4 +1,4 @@
-package com.rairmmd.push;
+package com.rair.push;
 
 import android.app.Application;
 
